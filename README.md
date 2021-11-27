@@ -5,7 +5,7 @@
 - :hammer: Creator of [Aurora Theme](https://github.com/vuepress-aurora/vuepress-theme-aurora)
 - :meat_on_bone: Meat lover
 - ❤️ I love writing Java, and building fun experiments on type-level
-- 💬 [Ask](tencent://message/?uin=2291308094) 
+- 💬 <a href="tencent://message/?uin=2291308094">Ask</a> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=qsyyke" style=""/>
 
