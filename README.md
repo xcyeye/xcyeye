@@ -7,11 +7,15 @@
 - ❤️ I love writing Java, and building fun experiments on type-level
 - 💬 [Ask](tencent://message/?uin=2291308094) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" style="zoom:93%;" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsyyke&langs_count=8&layout=compact)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=qsyyke" style=""/>
 
 
 
-## Pinned
+## ❤️Love Languages
+
+<img  align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qsyyke&langs_count=8&layout=compact"/>
+
+## :hammer: Pinned
 
 
 
