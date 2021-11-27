@@ -7,7 +7,7 @@
 - ❤️ I love writing Java, and building fun experiments on type-level
 - 💬 [Ask](tencent://message/?uin=2291308094) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsyyke&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" style="zoom:93%;" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsyyke&langs_count=8&layout=compact)
 
 
 
