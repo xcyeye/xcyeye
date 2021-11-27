@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**qsyyke/qsyyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  :ram: Currently a student, cs major
+- :orange_book: Focusing on Java & javaScript
+- :hammer: Creator of [Aurora Theme](https://github.com/vuepress-aurora/vuepress-theme-aurora)
+- :meat_on_bone: Meat lover
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- ❤️ I love writing Java, and building fun experiments on type-level
+- 💬 [Ask](tencent://message/?uin=2291308094) 
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsyyke&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Pinned
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuepress-aurora&repo=vuepress-theme-aurora)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
