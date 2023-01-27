@@ -22,5 +22,8 @@
 <a href="https://github.com/vuepress-aurora/vuepress-theme-aurora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuepress-aurora&repo=vuepress-theme-aurora" />
 </a>
+<a href="[https://github.com/vuepress-aurora/vuepress-theme-aurora](https://github.com/xcyeye/aurora-blog-system)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyeye&repo=aurora-blog-system" />
+</a>
 
 
