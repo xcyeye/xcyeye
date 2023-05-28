@@ -19,11 +19,11 @@
 
 
 
-<a href="https://github.com/vuepress-aurora/vuepress-theme-aurora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuepress-aurora&repo=vuepress-theme-aurora" />
+<a href="https://github.com/blog-aurora/aurora-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blog-aurora&repo=aurora-blog" />
 </a>
-<a href="[https://github.com/vuepress-aurora/vuepress-theme-aurora](https://github.com/xcyeye/aurora-blog-system)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xcyeye&repo=aurora-blog-system" />
+<a href="https://github.com/blog-aurora/vuepress-theme-aurora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blog-aurora&repo=vuepress-theme-aurora" />
 </a>
 
 
